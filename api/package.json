@@ -1,0 +1,1 @@
+{ "name": "seyypro-backend", "version": "1.0.0", "description": "Backend pagos SEYYPRO", "main": "api/index.js", "dependencies": { "mercadopago": "^2.0.15" }, "engines": { "node": ">=18.x" } }
